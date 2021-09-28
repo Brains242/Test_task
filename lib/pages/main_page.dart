@@ -49,7 +49,7 @@ class _HomePageState extends State<HomePage> {
                   child: Text('Hey there',
                       textAlign: TextAlign.center,
                       style: TextStyle(
-                        color: Colors.black,
+                        color: Colors.white,
                         fontFamily: 'Exo2',
                         fontSize: 32,
                         letterSpacing: 1.5,
